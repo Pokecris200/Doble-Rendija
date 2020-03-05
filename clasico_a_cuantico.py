@@ -16,15 +16,10 @@ def probabilidad (vector):
     y=[]
     for i in range (len(vector)):
         m=vector[i]
-        y=y+[m[0]*100]
+        y=y+[libreria.mod(m[0],m[1])*100]
     for i in range (len(vector)):
         x=x+[i]
     pyplot.title("PROBABILIDAD")
     pyplot.bar(x,height=y)
     pyplot.savefig("experimento.png")
     pyplot.show()
-v=[(4/5,0),(1/5,0),(0,0),(0,0),(0,0),(0,0)]
-d=[(0,0),(0,0),(1/18,0),(1/9,0),(5/18,0),(5/9,0)],[(0,0),(0,0),(1/9,0),(1/18,0),(5/9,0),(5/18,0)],[(1/9,0),(2/9,0),(1/6,0),(1/3,0),(1/18,0),(1/9,0)],[(2/9,0),(1/9,0),(1/3,0),(1/6,0),(1/9,0),(1/18,0)],[(2/9,0),(4/9,0),(1/9,0),(2/9,0),(0,0),(0,0)],[(4/9,0),(2/9,0),(2/9,0),(1/9,0),(0,0),(0,0)]
-g=experimentos (d,v,5)
-probabilidad (g)
-
