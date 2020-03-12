@@ -5,6 +5,8 @@ de tal manera que al pasar un mismo cuerpo por dos rendijas, hay probabilidad de
 y a demas pegue en distintos objetivos con probabilidades distintas
 El experimento se realizó por primera vez en 1801 por Thomas Young, que queria demostrar comportamiento de la luz y lo cual termino creando una nueva teoría completamente nueva, relacionada con la física cuántica que muestra un fenómeno muy difícil de explicar.  
 
+![Luz](https://raw.githubusercontent.com/Pokecris200/Doble-Rendija/master/WhatsApp%20Image%202020-03-12%20at%203.33.33%20PM.jpeg)
+
 muchas veces erroneamente se cree que este es un fenomeno creado por las ondas pero la verdad es que este experimento esta mas relacionado con lo cuantico como se explkica en la primera parte
 
 El proceso de este experimento comineza diseñando una maqueta que permita la visualizacion de las circunstancias del experimento por lo que va a ser necesario diseñar las rendijas por las que va a pasar la luz (en este caso un laser) y unos cuantos elementos mas:
