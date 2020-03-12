@@ -20,7 +20,7 @@ Nuestro experimento puede ser esquematizado de la siguiente manera:
 
 Esta puede ser la siguiente matriz:
 
-![Matriz](https://raw.githubusercontent.com/Pokecris200/Doble-Rendija/master/Matriz.png)
+![Matriz](https://raw.githubusercontent.com/Pokecris200/Doble-Rendija/master/Matriz.jpeg)
 
 para determinar los resultados de la probabilidad que tiene un foton en este caso de llegar a un objetivoi entre n objetivos se realizo una simulacion que se encuentra en est repositorio 
 Su funcionamiento es del modo en que comprueba que se puede realizar la operación de la matriz de transicion por el estado, dependiendo del número de cliks, multiplica el estado por la matriz el numero de veces que se pida y entrega el resultado deseado.
