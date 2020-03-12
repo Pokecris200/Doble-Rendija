@@ -22,7 +22,7 @@ Esta puede ser la siguiente matriz:
 
 ![Matriz](https://raw.githubusercontent.com/Pokecris200/Doble-Rendija/master/Matriz.png)
 
-
+para determinar los resultados de la probabilidad que tiene un
 
 ## Construido con :
 
