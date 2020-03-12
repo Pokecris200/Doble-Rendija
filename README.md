@@ -14,7 +14,11 @@ El proceso de este experimento comineza diseñando una maqueta que permita la vi
 
 nuestro experimento se hara con un sistema de dos rendijas donde se espera un patron especifico
 
-https://raw.githubusercontent.com/Pokecris200/Doble-Rendija/blob/master/Slide1.PNG
+Nuestro experimento puede ser esquematizado de la siguiente manera: 
+
+![Cat](https://raw.githubusercontent.com/Pokecris200/Doble-Rendija/master/README.md)
+
+
 
 ## Construido con :
 
