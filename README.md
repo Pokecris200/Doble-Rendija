@@ -18,6 +18,10 @@ Nuestro experimento puede ser esquematizado de la siguiente manera:
 
 ![Esquema](https://raw.githubusercontent.com/Pokecris200/Doble-Rendija/master/Slide1.PNG)
 
+Esta puede ser la siguiente matriz:
+
+![Matriz](https://raw.githubusercontent.com/Pokecris200/Doble-Rendija/master/Matriz.png)
+
 
 
 ## Construido con :
