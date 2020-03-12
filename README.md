@@ -16,7 +16,7 @@ nuestro experimento se hara con un sistema de dos rendijas donde se espera un pa
 
 Nuestro experimento puede ser esquematizado de la siguiente manera: 
 
-![Esquema](https://raw.githubusercontent.com/Pokecris200/Doble-Rendija/master/README.md)
+![Esquema](https://raw.githubusercontent.com/Pokecris200/Doble-Rendija/master/Slide1.PNG)
 
 
 
